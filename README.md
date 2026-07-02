@@ -121,13 +121,6 @@ The following modules are included with CircuitPython:
 5. Edit the `LYRICS` list to include your own text and animation timing.
 6. Reset the board.
 
-## Demo
-
-You can include screenshots or a short video demonstrating:
-
-- Falling text animation.
-- Multiple wrapped lines.
-- Lyrics synchronized with music.
 
 ## License
 
